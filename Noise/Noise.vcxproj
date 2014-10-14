@@ -83,7 +83,7 @@ copy /y "$(OutDir)Noise.exe" "$(windir)\system32\Noise.scr"</Command>
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="glew.c" />
-    <ClCompile Include="NoiserSaver.cpp" />
+    <ClCompile Include="NoiseSaver.cpp" />
     <ClCompile Include="Renderer.cpp" />
     <ClCompile Include="Window.cpp" />
   </ItemGroup>
