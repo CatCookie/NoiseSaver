@@ -1,7 +1,6 @@
 #include <windows.h>
 #include <Windowsx.h>
 #include <math.h>
-
 class Window {
 private :
 
